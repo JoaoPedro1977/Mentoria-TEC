@@ -9,6 +9,6 @@ public class Questao01 {
         double perimetro = 2 * (base + altura);
 
         System.out.println("Area do retangulo: " + area);
-        System.out.println("Perimetro do retangulo: " + perimetro);
+        
     }
 }
